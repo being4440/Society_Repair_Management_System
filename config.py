@@ -1,8 +1,8 @@
 import mysql.connector
 DB_config = {
     'host': 'localhost',
-    'user': 'root',
-    'password': '1810',
+    'user': 'user_name',
+    'password': 'your_password',
     'database': 'central_society'
 }
 try:
